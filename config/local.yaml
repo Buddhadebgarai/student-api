@@ -1,0 +1,8 @@
+env: "dev"
+
+// Database configuration sqlite
+storage_path: "storage/storage_dev.db"
+
+// HTTP server configuration
+http_server:
+  address: "localhost:8085"
